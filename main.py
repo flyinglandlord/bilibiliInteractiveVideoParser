@@ -1,5 +1,4 @@
 import textwrap
-
 import requests
 import xml.etree.ElementTree as ET
 import json
